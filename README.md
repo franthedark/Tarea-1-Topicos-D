@@ -27,6 +27,6 @@ Este notebook implementa un modelo de Regresión Logística orientado a la clasi
 
 ### 3. Directorio de Datos (data/)
 
-Carpeta destinada a almacenar los conjuntos de datos necesarios para la ejecución de los notebooks.
+se debe crear una carpeta llamada "data" en la raíz del proyecto destinada a almacenar los conjuntos de datos necesarios para la ejecución de los notebooks.
 
-  processed_data.csv: Dataset preprocesado basado en el corpus público TREC 2007. Este archivo contiene las características utilizadas para el filtro de spam, incluyendo etiquetas binarias (1 para SPAM, 0 para HAM), asunto, remitente, destinatario y cuerpo del mensaje.
+  processed_data.csv: Dataset preprocesado basado en el corpus público TREC 2007. Este archivo contiene las características utilizadas para el filtro de spam, incluyendo etiquetas binarias (1 para SPAM, 0 para HAM), asunto, remitente, destinatario y cuerpo del mensaje. Este archivo debe descargarse en el siguiente enlance: https://www.kaggle.com/datasets/imdeepmind/preprocessed-trec-2007-public-corpus-dataset
